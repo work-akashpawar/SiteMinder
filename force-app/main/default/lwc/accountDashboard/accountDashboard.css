@@ -1,0 +1,23 @@
+.filter-input {
+    max-width: 400px;
+}
+
+/* Section styling */
+.slds-section__title {
+    font-weight: bold;
+    padding: 0.75rem 0;
+}
+
+/* Empty state styling */
+.slds-text-align_center {
+    padding: 2rem;
+}
+
+/* Loading state */
+.spinner-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 200px;
+    width: 100%;
+}

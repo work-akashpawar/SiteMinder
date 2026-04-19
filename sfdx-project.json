@@ -1,0 +1,13 @@
+{
+  "packageDirectories": [
+    {
+      "path": "force-app",
+      "default": true
+    }
+  ],
+  "name": "SiteMinder",
+  "namespace": "",
+  "sfdcLoginUrl": "https://orgfarm-c654bbf4d3-dev-ed.develop.my.salesforce.com",
+  "sourceApiVersion": "66.0",
+  "defaultLwcLanguage": "javascript"
+}
